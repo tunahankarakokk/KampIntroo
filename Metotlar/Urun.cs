@@ -10,7 +10,8 @@ namespace Metotlar
     {
         //Property - Özellik
         public int Id { get; set; }
-        public string Adi { get; set; }
+        public string Ad { get; set; }
+        public string Soyadi { get; set; }
         public double Fiyati { get; set; }
         public string Aciklama { get; set; }
 
